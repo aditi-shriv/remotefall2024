@@ -1,4 +1,4 @@
-# removefall2024
+# remotefall2024
 This is a sample repo for the class
 
 
